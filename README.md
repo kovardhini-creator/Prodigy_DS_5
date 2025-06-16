@@ -1,4 +1,4 @@
-📊 Traffic Accident Data Analysis
+# Traffic Accident Data Analysis
 
 Task-05 | Prodigy Infotech Internship Project
 
