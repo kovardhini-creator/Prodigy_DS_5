@@ -1,6 +1,6 @@
 # Traffic Accident Data Analysis
 
-Task-05 | Prodigy Infotech Internship Project
+🎯Task-05 | Prodigy Infotech Internship Project
 
 # Objective
 
@@ -70,10 +70,9 @@ Task-05 | Prodigy Infotech Internship Project
 
 4. Accidents by Time of Day – Line Chart
 
+5.Each visualization is generated using Matplotlib and Seaborn to clearly present accident trends.
 
-# Each visualization is generated using Matplotlib and Seaborn to clearly present accident trends.
-
-📘 How to Use
+# How to Use
 
 1. Open the notebook in Google Colab or Jupyter Notebook.
 
