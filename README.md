@@ -60,7 +60,7 @@ Task-05 | Prodigy Infotech Internship Project
 -- This is ideal for showcasing visual analysis even without downloading external CSV files.
 
 
-📈 Output Visualizations
+# Output Visualizations
 
 1. Accident Count by City – Bar Plot
 
